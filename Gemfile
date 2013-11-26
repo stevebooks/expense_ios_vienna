@@ -1,0 +1,5 @@
+gem 'opal',               github: 'opal/opal', tag: 'v0.5.5'
+gem 'opal-activesupport', path: 'vendor/gems/opal-activesupport'
+gem 'opal-sprockets',     github: 'stevebooks/opal-sprockets', tag: 'v0.3.0'
+gem 'opal-jquery',        path: 'vendor/gems/opal-jquery'
+gem 'vienna',             path: 'vendor/gems/vienna'
